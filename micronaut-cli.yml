@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: mn.graphql
+---
+testFramework: junit
+sourceLanguage: java

@@ -1,0 +1,8 @@
+micronaut:
+  application:
+    name: mn-graphql
+
+graphql:
+  enabled: true
+  path: /graphql
+  graphiql.enabled: false
